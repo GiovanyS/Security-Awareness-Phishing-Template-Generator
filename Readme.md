@@ -1,13 +1,10 @@
-# **Security Awareness Phishing Template Generator**
+# Security Awareness Phishing Template Generator
 
-## **Objective**
+## Objective
 
-The **Security Awareness Phishing Template Generator** is a chatbot agent that allows users to customize phishing templates based on their specific campaign needs.  
+The Security Awareness Phishing Template Generator is a chatbot agent that allows users to customize phishing templates based on their specific campaign needs.
 
-The technologies used include
-
-**n8n, Gemini,*JavaScript, Trend Vision One, and HTML**.
----
+The technologies used include **n8n**, **Gemini**, **JavaScript**, **Trend Vision One**, and **HTML**.
 
 ## **Skills Learned**
 
@@ -33,7 +30,7 @@ The technologies used include
 <img width="1767" height="372" alt="image" src="https://github.com/user-attachments/assets/655b06cd-e400-4738-ba14-a8679f877ec2" />
 
 
-###  Executions Steps:
+###  Executions Steps
 **User-selected customization settings**
 <img width="1891" height="760" alt="image" src="https://github.com/user-attachments/assets/c4b918f1-7f65-49c8-819c-3bbc37f23605" />
 **HTML Code Generated Template**
