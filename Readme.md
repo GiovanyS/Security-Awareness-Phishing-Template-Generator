@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Security Awareness Phishing Template Generator is a chatbot agent that allows users to customize phishing templates based on their specific campaign needs.
+The **Security Awareness Phishing Template Generator** is a chatbot agent that allows users to customize phishing templates based on their specific campaign needs.
 
 The technologies used include **n8n**, **Gemini**, **JavaScript**, **Trend Vision One**, and **HTML**.
 
